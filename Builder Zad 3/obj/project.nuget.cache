@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oRgkFnNillGtMPTRR04o6Sasc40cAGpaPsUEvaHCmhYp0oo6BmPao3hB+WZly3FUcaUyhzy6B/JtivWhriHFOg==",
+  "success": true,
+  "projectFilePath": "G:\\WSB STUDIA\\SEMESTR 6\\Wzorce Projektowe\\Bulilder\\Builder\\Builder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

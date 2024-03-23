@@ -1,0 +1,28 @@
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Singleton Zad 2\Builder\bin\Debug\net8.0\Builder.exe
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Singleton Zad 2\Builder\bin\Debug\net8.0\Builder.deps.json
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Singleton Zad 2\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Singleton Zad 2\Builder\bin\Debug\net8.0\Builder.dll
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Singleton Zad 2\Builder\bin\Debug\net8.0\Builder.pdb
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Singleton Zad 2\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Singleton Zad 2\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Singleton Zad 2\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Singleton Zad 2\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Singleton Zad 2\Builder\obj\Debug\net8.0\Builder.dll
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Singleton Zad 2\Builder\obj\Debug\net8.0\refint\Builder.dll
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Singleton Zad 2\Builder\obj\Debug\net8.0\Builder.pdb
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Singleton Zad 2\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Singleton Zad 2\Builder\obj\Debug\net8.0\ref\Builder.dll
+G:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Bulilder\Builder\bin\Debug\net8.0\Builder.exe
+G:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Bulilder\Builder\bin\Debug\net8.0\Builder.deps.json
+G:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Bulilder\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+G:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Bulilder\Builder\bin\Debug\net8.0\Builder.dll
+G:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Bulilder\Builder\bin\Debug\net8.0\Builder.pdb
+G:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Bulilder\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+G:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Bulilder\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+G:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Bulilder\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+G:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Bulilder\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+G:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Bulilder\Builder\obj\Debug\net8.0\Builder.dll
+G:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Bulilder\Builder\obj\Debug\net8.0\refint\Builder.dll
+G:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Bulilder\Builder\obj\Debug\net8.0\Builder.pdb
+G:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Bulilder\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+G:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Bulilder\Builder\obj\Debug\net8.0\ref\Builder.dll
