@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "foyG6Yustz4jUdka1spO2pGdS/fSLTUUDhYyprx+Gjg/1EYtltIvGwhWxV4GOBxDqha1g3X6aVN6Mp3QHDTmEQ==",
+  "success": true,
+  "projectFilePath": "G:\\WSB STUDIA\\SEMESTR 6\\Wzorce Projektowe\\Singleton Zad 2\\Singleton zad2\\Singleton zad2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
