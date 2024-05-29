@@ -1,0 +1,28 @@
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter\obj\Debug\net8.0\zad4_adapter.GeneratedMSBuildEditorConfig.editorconfig
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter\obj\Debug\net8.0\zad4_adapter.AssemblyInfoInputs.cache
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter\obj\Debug\net8.0\zad4_adapter.AssemblyInfo.cs
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter\obj\Debug\net8.0\zad4_adapter.csproj.CoreCompileInputs.cache
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter\bin\Debug\net8.0\zad4_adapter.exe
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter\bin\Debug\net8.0\zad4_adapter.deps.json
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter\bin\Debug\net8.0\zad4_adapter.runtimeconfig.json
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter\bin\Debug\net8.0\zad4_adapter.dll
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter\bin\Debug\net8.0\zad4_adapter.pdb
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter\obj\Debug\net8.0\zad4_adapter.dll
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter\obj\Debug\net8.0\refint\zad4_adapter.dll
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter\obj\Debug\net8.0\zad4_adapter.pdb
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter\obj\Debug\net8.0\zad4_adapter.genruntimeconfig.cache
+F:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter\obj\Debug\net8.0\ref\zad4_adapter.dll
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter pk\bin\Debug\net8.0\zad4_adapter.exe
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter pk\bin\Debug\net8.0\zad4_adapter.deps.json
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter pk\bin\Debug\net8.0\zad4_adapter.runtimeconfig.json
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter pk\bin\Debug\net8.0\zad4_adapter.dll
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter pk\bin\Debug\net8.0\zad4_adapter.pdb
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter pk\obj\Debug\net8.0\zad4_adapter.GeneratedMSBuildEditorConfig.editorconfig
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter pk\obj\Debug\net8.0\zad4_adapter.AssemblyInfoInputs.cache
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter pk\obj\Debug\net8.0\zad4_adapter.AssemblyInfo.cs
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter pk\obj\Debug\net8.0\zad4_adapter.csproj.CoreCompileInputs.cache
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter pk\obj\Debug\net8.0\zad4_adapter.dll
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter pk\obj\Debug\net8.0\refint\zad4_adapter.dll
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter pk\obj\Debug\net8.0\zad4_adapter.pdb
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter pk\obj\Debug\net8.0\zad4_adapter.genruntimeconfig.cache
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Adapter Zad 4\zad4_adapter pk\obj\Debug\net8.0\ref\zad4_adapter.dll
