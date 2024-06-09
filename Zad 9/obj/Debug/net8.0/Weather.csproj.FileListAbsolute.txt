@@ -1,0 +1,14 @@
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 9 observer\Weather\bin\Debug\net8.0\Weather.exe
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 9 observer\Weather\bin\Debug\net8.0\Weather.deps.json
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 9 observer\Weather\bin\Debug\net8.0\Weather.runtimeconfig.json
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 9 observer\Weather\bin\Debug\net8.0\Weather.dll
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 9 observer\Weather\bin\Debug\net8.0\Weather.pdb
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 9 observer\Weather\obj\Debug\net8.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 9 observer\Weather\obj\Debug\net8.0\Weather.AssemblyInfoInputs.cache
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 9 observer\Weather\obj\Debug\net8.0\Weather.AssemblyInfo.cs
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 9 observer\Weather\obj\Debug\net8.0\Weather.csproj.CoreCompileInputs.cache
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 9 observer\Weather\obj\Debug\net8.0\Weather.dll
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 9 observer\Weather\obj\Debug\net8.0\refint\Weather.dll
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 9 observer\Weather\obj\Debug\net8.0\Weather.pdb
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 9 observer\Weather\obj\Debug\net8.0\Weather.genruntimeconfig.cache
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 9 observer\Weather\obj\Debug\net8.0\ref\Weather.dll
