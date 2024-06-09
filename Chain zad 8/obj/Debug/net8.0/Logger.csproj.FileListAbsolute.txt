@@ -1,0 +1,14 @@
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Zad 8 chain\Logger\bin\Debug\net8.0\Logger.exe
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Zad 8 chain\Logger\bin\Debug\net8.0\Logger.deps.json
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Zad 8 chain\Logger\bin\Debug\net8.0\Logger.runtimeconfig.json
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Zad 8 chain\Logger\bin\Debug\net8.0\Logger.dll
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Zad 8 chain\Logger\bin\Debug\net8.0\Logger.pdb
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Zad 8 chain\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Zad 8 chain\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Zad 8 chain\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Zad 8 chain\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Zad 8 chain\Logger\obj\Debug\net8.0\Logger.dll
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Zad 8 chain\Logger\obj\Debug\net8.0\refint\Logger.dll
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Zad 8 chain\Logger\obj\Debug\net8.0\Logger.pdb
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Zad 8 chain\Logger\obj\Debug\net8.0\Logger.genruntimeconfig.cache
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\Zad 8 chain\Logger\obj\Debug\net8.0\ref\Logger.dll
