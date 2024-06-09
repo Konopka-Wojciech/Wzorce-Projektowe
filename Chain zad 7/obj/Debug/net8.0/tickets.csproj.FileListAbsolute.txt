@@ -1,0 +1,14 @@
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 7 chain\tickets\obj\Debug\net8.0\tickets.GeneratedMSBuildEditorConfig.editorconfig
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 7 chain\tickets\obj\Debug\net8.0\tickets.AssemblyInfoInputs.cache
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 7 chain\tickets\obj\Debug\net8.0\tickets.AssemblyInfo.cs
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 7 chain\tickets\obj\Debug\net8.0\tickets.csproj.CoreCompileInputs.cache
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 7 chain\tickets\bin\Debug\net8.0\tickets.exe
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 7 chain\tickets\bin\Debug\net8.0\tickets.deps.json
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 7 chain\tickets\bin\Debug\net8.0\tickets.runtimeconfig.json
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 7 chain\tickets\bin\Debug\net8.0\tickets.dll
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 7 chain\tickets\bin\Debug\net8.0\tickets.pdb
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 7 chain\tickets\obj\Debug\net8.0\tickets.dll
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 7 chain\tickets\obj\Debug\net8.0\refint\tickets.dll
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 7 chain\tickets\obj\Debug\net8.0\tickets.pdb
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 7 chain\tickets\obj\Debug\net8.0\tickets.genruntimeconfig.cache
+E:\WSB STUDIA\SEMESTR 6\Wzorce Projektowe\zad 7 chain\tickets\obj\Debug\net8.0\ref\tickets.dll
